@@ -118,11 +118,6 @@ class MyFrameClass extends JFrame implements ActionListener, ChangeListener, Doc
 
 	}
 
-//	public static String convert(int i, int spin)
-//	{
-//		return Integer.toString(i,spin);
-//	}
-
 	public void changedUpdate(DocumentEvent e)
 	{
 		int i = 0;
